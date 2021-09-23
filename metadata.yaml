@@ -1,11 +1,16 @@
 _repo: The-Lighter-Classics-in-Music-A-Comprehensive-Guide-to-Musical-Masterworks-in-a-Lighter-Vein_66346
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66346-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewen, David
     gutenberg_agent_id: '53760'
     url: http://www.gutenberg.org/2009/agents/53760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66346#The-Lighter-Classics-in-Music-A-Comprehensive-Guide-to-Musical-Masterworks-in-a-Lighter-Vein
 gutenberg_issued: '2021-09-20'
 identifiers:
   gutenberg: '66346'
